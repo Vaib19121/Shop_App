@@ -8,7 +8,11 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+<<<<<<< HEAD
 .expo-shared
 
+=======
+.expo-shared/
+>>>>>>> 1db7ad160f673b16364d4c2539aa32d52167be3b
 # macOS
 .DS_Store
