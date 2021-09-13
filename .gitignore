@@ -9,8 +9,12 @@ npm-debug.*
 *.orig.*
 web-build/
 <<<<<<< HEAD
+<<<<<<< HEAD
 .expo-shared
 
+=======
+.expo-shared/
+>>>>>>> 1db7ad160f673b16364d4c2539aa32d52167be3b
 =======
 .expo-shared/
 >>>>>>> 1db7ad160f673b16364d4c2539aa32d52167be3b
